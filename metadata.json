@@ -1,0 +1,6 @@
+{
+  "name": "Sama Taxi - Application VTC Dakar",
+  "description": "Application VTC mobile moderne inspirée de Yango : réservation rapide, suivi en temps réel, tarifs en FCFA, paiement Wave & Orange Money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
